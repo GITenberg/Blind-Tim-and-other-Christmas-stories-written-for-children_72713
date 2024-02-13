@@ -1,5 +1,8 @@
 _repo: Blind-Tim-and-other-Christmas-stories-written-for-children_72713
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72713-h/images/backcover.jpg
 creator:
   author:
     agent_name: Solberg, Charles O. (Charles Orrin)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '56783'
     url: http://www.gutenberg.org/2009/agents/56783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72713#Blind-Tim-and-other-Christmas-stories-written-for-children
 gutenberg_issued: '2024-01-14'
 gutenberg_type: Text
 identifiers:
