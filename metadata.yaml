@@ -1,0 +1,39 @@
+_repo: Blind-Tim-and-other-Christmas-stories-written-for-children_72713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Solberg, Charles O. (Charles Orrin)
+    aliases:
+    - Solberg, Charles Orrin
+    - Solberg, C. O.
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '56783'
+    url: http://www.gutenberg.org/2009/agents/56783
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72713'
+language: en
+pgterms:marc904: https://archive.org/details/blindtimotherchr0000coso/page/n3/mode/2up
+pgterms:marc905: 20231219005930solberg
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aMinneapolis :$bAugsburg publishing house, $c1926, reprint 1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: In childhood I saw him -- Blind Tim -- Rags -- A queer Christmas
+  tree -- Bigbeard and Little Sander -- No Christmas -- Buddy's Christmas tree --
+  Three pines.
+title: Blind Tim, and other Christmas stories written for children
+url: http://www.gutenberg.org/ebooks/72713
